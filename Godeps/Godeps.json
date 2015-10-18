@@ -1,0 +1,100 @@
+{
+	"ImportPath": "github.com/DaveBlooman/slingshot",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/MichaelTJones/walk",
+			"Rev": "3af09438b0ab0e8f296410bfa646a7e635ea1fc0"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/aws",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/endpoints",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/protocol/query",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/protocol/rest",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/protocol/restxml",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/protocol/xml/xmlutil",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/internal/signer/v4",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/aws/aws-sdk-go/service/s3",
+			"Comment": "v0.9.5-5-g59b2dc5",
+			"Rev": "59b2dc566b52c3681974a0b98fb7c7d6ef70597f"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-74-g50c77ec",
+			"Rev": "50c77ecec0068c9aef9d90ae0fd0fdf410041da3"
+		},
+		{
+			"ImportPath": "github.com/gokyle/fswatch",
+			"Rev": "1dbdf8320a690537582afe0f45c947f501adeaad"
+		},
+		{
+			"ImportPath": "github.com/howeyc/gopass",
+			"Rev": "10b54de414cc9693221d5ff2ae14fd2fbf1b0ac1"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Rev": "40e4aedc8fabf8c23e040057540867186712faa5"
+		},
+		{
+			"ImportPath": "github.com/mgutz/ansi",
+			"Rev": "c286dcecd19ff979eeb73ea444e479b903f2cfcb"
+		},
+		{
+			"ImportPath": "github.com/mgutz/minimist",
+			"Rev": "e3e5af13ccefb15bcf80187ae6879fcc99984fc9"
+		},
+		{
+			"ImportPath": "github.com/mgutz/str",
+			"Comment": "1.1.0-4-g968bf66",
+			"Rev": "968bf66e3da857419e4f6e71b2d5c9ae95682dc4"
+		},
+		{
+			"ImportPath": "github.com/mgutz/to",
+			"Rev": "d72775a547168f5dae1b0f0acc1a31da7e32f779"
+		},
+		{
+			"ImportPath": "github.com/vaughan0/go-ini",
+			"Rev": "a98ad7ee00ec53921f08832bc06ecf7fd600e6a1"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "c8b9e6388ef638d5a8a9d865c634befdc46a6784"
+		},
+		{
+			"ImportPath": "gopkg.in/godo.v1",
+			"Comment": "v1.4.5",
+			"Rev": "60979dc29b693e86b330512ce0a00f77856d5dd3"
+		}
+	]
+}
